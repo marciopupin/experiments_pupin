@@ -1,2 +1,2 @@
 # experiments_pupin
-To play with
+To play with and test interesting things
